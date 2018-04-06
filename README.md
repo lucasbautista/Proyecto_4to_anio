@@ -1,2 +1,2 @@
-# Proyecto_4to_anio
+# Proyecto_4to_año
 Medidor de velocidad y GPS (GIBIO)
